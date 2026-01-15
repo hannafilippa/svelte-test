@@ -10,7 +10,7 @@
 <section class="cards-grid">
 	{#each items as item}
 		<div class="size size--{item.size}">
-			<Card href={item.link}>
+			<Card href={item.link} target="_blank" rel="noopener noreferrer">
 				<img src={`/images/${item.image}`} alt={item.title} />
 
 				<div class="card-content">
@@ -63,7 +63,7 @@
 	}
 
 	.size--large {
-		grid-column: span 12;
+		grid-column: span 9;
 	}
 
 	/* Images sizes based on card size */
@@ -83,6 +83,12 @@
 		.size--medium,
 		.size--large {
 			grid-column: span 6;
+		}
+
+		.size--small img,
+		.size--medium img,
+		.size--large img {
+			height: 200px;
 		}
 	}
 

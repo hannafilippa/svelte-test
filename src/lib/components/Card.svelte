@@ -2,12 +2,13 @@
 
 <script>
 	// In runes mod (Svelte 5), component props are declared with the $props rune
-	let { href = null, children } = $props();
+	let props = $props();
+	let href = props.href ?? null;
 </script>
 
 <!-- The <svelte:element> element lets you render an element that is unknown at author time -->
 <svelte:element this={href ? 'a' : 'article'} href={href || undefined} class="card">
-	{@render children?.()}
+	{@render props.children?.()}
 </svelte:element>
 
 <style>

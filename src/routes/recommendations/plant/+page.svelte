@@ -1,7 +1,7 @@
 <script>
 	import SectionIntro from '$lib/components/SectionIntro.svelte';
 	import CardsGrid from '$lib/components/CardsGrid.svelte';
-	import plant from '$lib/images/cactus.jpg';
+	import plant from '$lib/images/plant.jpg';
 
 	export let data;
 </script>
@@ -10,11 +10,12 @@
 	image={plant}
 	imageAlt="planta"
 	overlay="för ett grönare liv"
-	overlayColor="rgb(50, 112, 74)"
-	overlayPosition="right"
+	overlayColor="rgb(223,206,170)"
+	overlayPosition="left"
 	title="Rekommenderade växter"
-	text="Ekologiska och närodlade växter utvalda med omsorg"
-	textPosition="center"
+	text="En inspirationssida för dig som vill omge dig med grönska som gör gott. Här samlar vi noggrant utvalda och rekommenderade växter – med fokus på miljönytta, bättre inomhusluft och ökat välmående. Oavsett om du söker lättskötta krukväxter, luftrenande sorter eller växter som skapar lugn, vill vi guida dig till grönare val.
+
+Upptäck växter som bidrar till ett hälsosammare hem och en mer hållbar vardag, och låt naturen bli en naturlig del av ditt liv."
 />
 
 <CardsGrid items={data.plants} />

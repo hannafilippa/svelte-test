@@ -31,8 +31,9 @@
 
 	<div class="nav-links" class:isMenuOpen>
 		<a href="/" on:click={() => (isMenuOpen = false)}>Hem</a>
-		<a href="/about" on:click={() => (isMenuOpen = false)}>Om Oss</a>
+		<a href="/about" on:click={() => (isMenuOpen = false)}>Om oss</a>
 		<a href="/inspiration" on:click={() => (isMenuOpen = false)}>Artiklar</a>
+		<a href="/todos" on:click={() => (isMenuOpen = false)}>Dina vanor</a>
 
 		<!-- Submenu -->
 		<div class="submenu">
@@ -45,7 +46,7 @@
 						on:click={() => {
 							isSubMenuOpen = false;
 							isMenuOpen = false;
-						}}>Se alla rekommendationer</a
+						}}>Se alla</a
 					>
 					<a
 						href="/recommendations/coffee"
@@ -109,7 +110,7 @@
 	.submenu {
 		display: flex;
 		flex-direction: column;
-		padding-top: 0.2rem;
+		padding-top: 0.22rem;
 	}
 
 	.submenu-title {
@@ -123,14 +124,15 @@
 	.submenu-links {
 		display: flex;
 		flex-direction: column;
-		gap: 0.3rem;
+		margin-top: 1.5rem;
 		padding: 0.5rem;
+		gap: 0.3rem;
 
 		position: absolute;
 		z-index: 1;
 
 		background: rgb(232, 225, 222);
-		box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+		box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 	}
 
 	/* Dropdown Menu */
@@ -158,7 +160,7 @@
 
 			margin-right: 2rem;
 			background: rgb(232, 225, 222);
-			box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+			box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 		}
 
 		.top-navbar {

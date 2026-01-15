@@ -6,7 +6,6 @@
 	export let overlayPosition = '';
 	export let title = '';
 	export let text = '';
-	export let textPosition = '';
 </script>
 
 <section class="hero-section">
@@ -22,8 +21,7 @@
 	</span>
 </section>
 
-<!-- The style: directive provides a shorthand for setting multiple styles on an element -->
-<section class="intro-section" style:text-align={textPosition}>
+<section class="intro-section">
 	<h1 class="page-name">{title}</h1>
 	<p class="intro-text">{text}</p>
 </section>
@@ -55,18 +53,12 @@
 	}
 
 	.image-overlay.left {
-		left: 2rem;
+		left: 1rem;
 		text-align: left;
 	}
 
-	.image-overlay.center {
-		left: 50%;
-		transform: translate(-50%, -50%);
-		text-align: center;
-	}
-
 	.image-overlay.right {
-		right: 2rem;
+		right: 1rem;
 		text-align: right;
 	}
 
@@ -82,6 +74,6 @@
 	.intro-text {
 		font-size: 1.1rem;
 		padding: 0 1rem;
-		color: #555;
+		color: #403e3d;
 	}
 </style>

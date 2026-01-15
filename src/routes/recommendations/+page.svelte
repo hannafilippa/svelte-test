@@ -25,16 +25,15 @@
 <style>
 	.finale-image {
 		width: 100%;
-		max-height: 320px;
 		border-radius: 1rem;
-		margin: 3rem 0;
+		margin-top: 2rem;
 	}
 
 	.quote {
 		background: rgba(188, 146, 83, 0.3);
-		padding: 1rem;
-		border-radius: 1rem;
+		padding: 0.5rem;
+		margin: 1rem;
+		border-radius: 2rem;
 		text-align: center;
-		margin-bottom: 2rem;
 	}
 </style>

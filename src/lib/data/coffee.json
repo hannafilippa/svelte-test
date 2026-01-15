@@ -1,57 +1,57 @@
 [
 	{
 		"id": "1",
-		"title": "Café de Olla",
-		"text": "Corrupti hic repudiandae aut quibusdam cupiditate itaque at reprehenderit non sed nam.",
+		"title": "Ethiopian Yirgacheffe",
+		"text": "Från små familjeodlingar i Etiopien, ekologiskt och fair trade – ger en blommig och fruktig smak samtidigt som odlingen stödjer lokalsamhället.",
 		"image": "card-coffee.jpg",
 		"size": "small"
 	},
 	{
 		"id": "2",
-		"title": "Café de Olla",
-		"text": "Corrupti hic repudiandae aut quibusdam cupiditate itaque at reprehenderit non sed nam.",
+		"title": "Colombian Supremo",
+		"text": "Ekologiskt odlad och handplockad kaffe från Colombia. Rik på antioxidanter och stödjer hållbara jordbruksmetoder.",
 		"image": "card-coffee.jpg",
 		"size": "small"
 	},
 	{
 		"id": "3",
-		"title": "Café de Olla",
-		"text": "Corrupti hic repudiandae aut quibusdam cupiditate itaque at reprehenderit non sed nam.",
+		"title": "Guatemalan Antigua",
+		"text": "Gårdar med certifierad skuggröna minskar klimatpåverkan. Smaken är fyllig med chokladtoner, bra för både sinne och miljö.",
 		"image": "card-coffee.jpg",
 		"size": "small"
 	},
 	{
 		"id": "4",
-		"title": "Café de Olla",
-		"text": "Corrupti hic repudiandae aut quibusdam cupiditate itaque at reprehenderit non sed nam.",
+		"title": "Kenyan AA",
+		"text": "Hög höjd och handplockade bönor ger en frisk och syrlig smak. Odlas med minimal pesticidanvändning och stödjer lokala kooperativ.",
 		"image": "card-coffee.jpg",
 		"size": "small"
 	},
 	{
 		"id": "5",
-		"title": "Café de Olla",
-		"text": "Corrupti hic repudiandae aut quibusdam cupiditate itaque at reprehenderit non sed nam.",
+		"title": "Sumatra Mandheling",
+		"text": "Ekologiskt kaffe med jordig och fyllig smak. Odling under skogsskydd främjar biologisk mångfald och hållbar markanvändning.",
 		"image": "card-coffee.jpg",
 		"size": "small"
 	},
 	{
 		"id": "6",
-		"title": "Café de Olla",
-		"text": "Corrupti hic repudiandae aut quibusdam cupiditate itaque at reprehenderit non sed nam.",
+		"title": "Costa Rican Tarrazú",
+		"text": "Högt beläget och skuggodlat för optimal smak. Ekologisk odling bidrar till renare vatten och friskare miljö.",
 		"image": "card-coffee.jpg",
 		"size": "small"
 	},
 	{
 		"id": "7",
-		"title": "Café de Olla",
-		"text": "Corrupti hic repudiandae aut quibusdam cupiditate itaque at reprehenderit non sed nam.",
+		"title": "Brazilian Santos",
+		"text": "Mjuk och nötig smak med certifierad hållbar produktion. Stärker lokala jordbruk och minskar klimatpåverkan.",
 		"image": "card-coffee.jpg",
 		"size": "small"
 	},
 	{
 		"id": "8",
-		"title": "Café de Olla",
-		"text": "Corrupti hic repudiandae aut quibusdam cupiditate itaque at reprehenderit non sed nam.",
+		"title": "Panama Geisha",
+		"text": "Exklusiv bönsort med blommiga toner. Ekologiskt odlad med fokus på miljö och hög kvalitet för medvetna kaffeälskare.",
 		"image": "card-coffee.jpg",
 		"size": "small"
 	}

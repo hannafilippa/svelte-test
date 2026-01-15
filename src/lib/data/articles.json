@@ -9,24 +9,24 @@
 	},
 	{
 		"id": 2,
-		"title": "Växter som renar luften",
-		"text": "Gröna favoriter som trivs inomhus och bidrar till bättre inomhusmiljö.",
+		"title": "Växter som renar luften du andas",
+		"text": "Gröna växter blir inte bara vacker inredning i vardagsrummet... Läs mer på Blomsterlandet →",
 		"image": "article-plant.jpg",
 		"size": "small",
-		"link": "/inspiration"
+		"link": "https://www.blomsterlandet.se/tips-rad/inomhus/krukvaxter/luftrenande-inomhusfavoriter-tips-for-vardagsrummet"
 	},
 	{
 		"id": 3,
-		"title": "5 enkla vanor för en grönare vardag",
-		"text": "Små steg som är lätta att hålla fast vid.",
+		"title": "5 miljövänliga vanor att anamma direkt",
+		"text": "Små steg som är lätta att hålla fast vid. Läs mer på Sköna Hem →",
 		"image": "article-habits.jpg",
 		"size": "small",
-		"link": "/inspiration"
+		"link": "https://skonahem.expressen.se/inspiration/rent-snyggt/6-miljovanliga-vanor-att-skaffa-sig-nu"
 	},
 	{
 		"id": 4,
-		"title": "Återbruk i köket",
-		"text": "Så kan du använda det du redan har - igen och igen.",
+		"title": "Hållbar mat och framtidens matproduktion",
+		"text": "Framtidens matproduktion kommer att vara en nyckelspelare i att bygga en hållbar framtid. Hos WWF finner du guider om kött, vego och fisk →",
 		"image": "article-kitchen.jpg",
 		"size": "large",
 		"link": "/inspiration"
@@ -34,17 +34,26 @@
 	{
 		"id": 5,
 		"title": "Återanvändbara förpackningar",
-		"text": "Tips på hur du kan minska engångsplast i vardagen.",
+		"text": "Det tyska företaget Vytal erbjuder återanvändbara förpackningar för hämtmat och drycker utan pant. Till MatLust →",
 		"image": "article-bags.jpg",
 		"size": "small",
-		"link": "/inspiration"
+		"link": "https://matlust.eu/matlust-transnationell-komponent/best-practice-ateranvandbara-forpackningar-en-ateranvandbar-framtid-i-restaurangbranschen/"
 	},
 	{
 		"id": 6,
-		"title": "Så brygger du kaffe mer hållbart",
-		"text": "Små justeringar i vardagen kan göra stor skillnad för både smak och miljö.",
+		"title": "5 skäl att välja ekologiskt kaffe",
+		"text": "Byt till ekokaffe och rädda liv! Läs artikeln hos Naturskyddsföreningen →",
 		"image": "article-coffee.jpg",
 		"size": "medium",
-		"link": "/inspiration"
+		"link": "https://www.naturskyddsforeningen.se/artiklar/5-skal-att-valja-ekologiskt-kaffe/"
+	},
+
+	{
+		"id": 7,
+		"title": "Husmorstipsen som får hela Sverige att storstäda",
+		"text": "Ättika och bikarbonat. Det är det enda du behöver. Läs om detta på SVT →",
+		"image": "article-cleaning.jpg",
+		"size": "medium",
+		"link": "https://www.svt.se/nyheter/inrikes/attika-och-bikarbonat-husmorstipsen-som-far-hela-sverige-att-storstada"
 	}
 ]

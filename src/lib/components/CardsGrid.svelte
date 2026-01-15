@@ -3,29 +3,20 @@
 <script>
 	import Card from '$lib/components/Card.svelte';
 
-	// Array containing  link, size, image, title and text
+	// Array containing  link, image, title and text
 	let { items = [] } = $props();
 </script>
 
 <section class="cards-grid">
 	{#each items as item (item.id)}
-		<!--<div class="grid-item">-->
 		<Card href={item.link}>
 			<img src={`/images/${item.image}`} alt={item.title} />
 
 			<div class="card-content">
 				<h3>{item.title}</h3>
 				<p>{item.text}</p>
-
-				{#if item.price}
-					<div class="card-footer">
-						<p class="price">{item.price} kr</p>
-						<button class="btn">Köp här</button>
-					</div>
-				{/if}
 			</div>
 		</Card>
-		<!--</div>-->
 	{/each}
 </section>
 
@@ -35,12 +26,6 @@
 		grid-template-columns: repeat(4, 3fr);
 		gap: 1.5rem;
 	}
-
-	/*
-	.grid-item {
-	grid-column: span 3;
-	}
-	*/
 
 	/* Styling props */
 	.card-content {
@@ -67,29 +52,6 @@
 		aspect-ratio: 4/3;
 		object-fit: cover;
 		display: block;
-	}
-
-	/* If item price */
-	.card-footer {
-		display: flex;
-		align-items: center;
-		padding-top: 1rem;
-	}
-
-	.btn {
-		margin-left: auto;
-		border-radius: 1rem;
-		border: 0;
-		padding: 0.6rem;
-
-		text-decoration: none;
-		background: rgba(51, 27, 15, 0.7);
-		color: white;
-	}
-
-	.btn:hover {
-		color: black;
-		background: rgba(51, 27, 15, 0.2);
 	}
 
 	/* Responsive Layout */

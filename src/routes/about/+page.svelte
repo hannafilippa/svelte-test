@@ -1,14 +1,14 @@
 <script>
 	import SectionIntro from '$lib/components/SectionIntro.svelte';
-	import newspaper from '$lib/images/newspaper.jpg';
+	import about from '$lib/images/about.jpg';
 </script>
 
 <SectionIntro
-	image={newspaper}
-	imageAlt="tidning"
+	image={about}
+	imageAlt="en tjej som skriver i en bok och dricker en kopp te"
 	overlay="hållbart, enkelt och inspirerande - börja här"
-	overlayColor="rgb(64, 46, 42)"
-	overlayPosition="right"
+	overlayColor="rgb(245, 245, 242)"
+	overlayPosition="left"
 	text="Vi tror inte på perfektion, utan på medvetna val som faktiskt fungerar i vardagen. Vi samlar
 	inspiration, kunskap och hållbart utvalda produkter som hjälper dig att ta steg mot en mer hållbar
 	livsstil. Innehållet uppdateras löpande med det som är relevant just nu - säsong för säsong,

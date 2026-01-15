@@ -1,57 +1,57 @@
 [
 	{
 		"id": "1",
-		"title": "En grönare växt",
-		"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+		"title": "Fredskalla",
+		"text": "Renar luften och trivs i skugga, vilket gör den perfekt för hemmets lugna hörn.",
 		"image": "card-plant.jpg",
 		"size": "small"
 	},
 	{
 		"id": "2",
-		"title": "En grönare växt",
-		"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+		"title": "Gullranka",
+		"text": "Luftrenande klätterväxt som minskar skadliga ämnen inomhus och är lättskött.",
 		"image": "card-plant.jpg",
 		"size": "small"
 	},
 	{
 		"id": "3",
-		"title": "En grönare växt",
-		"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+		"title": "Arekapalm",
+		"text": "Fuktighetsgivande växt som höjer luftkvaliteten och skapar en tropisk känsla hemma.",
 		"image": "card-plant.jpg",
 		"size": "small"
 	},
 	{
 		"id": "4",
-		"title": "En grönare växt",
-		"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+		"title": "Murgröna",
+		"text": "Luftrenande växt som kan minska mögelsporer och förbättra inomhusluften.",
 		"image": "card-plant.jpg",
 		"size": "small"
 	},
 	{
 		"id": "5",
-		"title": "En grönare växt",
-		"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+		"title": "Svärmorstunga",
+		"text": "Produkter syre på natten och renar luften, vilket kan ge bättre sömnkvalitet.",
 		"image": "card-plant.jpg",
 		"size": "small"
 	},
 	{
 		"id": "6",
-		"title": "En grönare växt",
-		"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+		"title": "Orkidé",
+		"text": "Skapar ett estetiskt lugn och kan öka välbefinnandet med sina vackra blommor.",
 		"image": "card-plant.jpg",
 		"size": "small"
 	},
 	{
 		"id": "7",
-		"title": "En grönare växt",
-		"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+		"title": "Bambupalm",
+		"text": "Bra för inomhusluften och ger en fräsch, tropisk känsla i rummet.",
 		"image": "card-plant.jpg",
 		"size": "small"
 	},
 	{
 		"id": "8",
-		"title": "En grönare växt",
-		"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+		"title": "Krysantemum",
+		"text": "Känd för att ta bort skadliga kemikalier i luften och ge färg och liv åt hemmet.",
 		"image": "card-plant.jpg",
 		"size": "small"
 	}
