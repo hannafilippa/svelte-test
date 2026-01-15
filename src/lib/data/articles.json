@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"title": "Enkla tips och recept för att äta mer klimatsmart",
+		"text": "Är osäker på hur du ska gå tillväga och vad du behöver tänka på? Artikeln finner du hos Elle →",
+		"image": "article-food.jpg",
+		"size": "medium",
+		"link": "https://www.elle.se/mat-och-vin/enkla-tips-recept-ata-klimatsmart/4865525"
+	},
+	{
+		"id": 2,
+		"title": "Växter som renar luften",
+		"text": "Gröna favoriter som trivs inomhus och bidrar till bättre inomhusmiljö.",
+		"image": "article-plant.jpg",
+		"size": "small",
+		"link": "/inspiration"
+	},
+	{
+		"id": 3,
+		"title": "5 enkla vanor för en grönare vardag",
+		"text": "Små steg som är lätta att hålla fast vid.",
+		"image": "article-habits.jpg",
+		"size": "small",
+		"link": "/inspiration"
+	},
+	{
+		"id": 4,
+		"title": "Återbruk i köket",
+		"text": "Så kan du använda det du redan har - igen och igen.",
+		"image": "article-kitchen.jpg",
+		"size": "large",
+		"link": "/inspiration"
+	},
+	{
+		"id": 5,
+		"title": "Återanvändbara förpackningar",
+		"text": "Tips på hur du kan minska engångsplast i vardagen.",
+		"image": "article-bags.jpg",
+		"size": "small",
+		"link": "/inspiration"
+	},
+	{
+		"id": 6,
+		"title": "Så brygger du kaffe mer hållbart",
+		"text": "Små justeringar i vardagen kan göra stor skillnad för både smak och miljö.",
+		"image": "article-coffee.jpg",
+		"size": "medium",
+		"link": "/inspiration"
+	}
+]

@@ -1,0 +1,19 @@
+/* https://fontsource.org/docs/guides/svelte */
+
+@import '@fontsource-variable/inter/wght.css';
+@import '@fontsource/sacramento';
+
+body {
+	margin: 0;
+	line-height: 1.5;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: 'Inter Variable', sans-serif;
+	font-weight: 300;
+}

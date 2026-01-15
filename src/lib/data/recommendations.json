@@ -1,0 +1,51 @@
+[
+	{
+		"id": 1,
+		"title": "Kaffe",
+		"text": "Ekologiskt kaffe från noggrant utvalda producenter",
+		"image": "page-coffee.jpg",
+		"size": "small",
+		"link": "/recommendations/coffee"
+	},
+	{
+		"id": 2,
+		"title": "Växter",
+		"text": "Gröna plantor för hem och arbetsplats.",
+		"image": "page-plant.jpg",
+		"size": "small",
+		"link": "/recommendations/plant"
+	},
+	{
+		"id": 3,
+		"title": "Energisnålt",
+		"text": "Kommer snart...",
+		"image": "page-energy-efficient.jpg",
+		"size": "small",
+		"link": "/recommendations"
+	},
+	{
+		"id": 4,
+		"title": "Återbruk",
+		"text": "Kommer snart...",
+		"image": "page-reuse.jpg",
+		"size": "small",
+		"link": "/recommendations"
+	},
+
+	{
+		"id": 5,
+		"title": "Vardagsritualer",
+		"text": "Kommer snart...",
+		"image": "page-rituals.jpg",
+		"size": "small",
+		"link": "/recommendations"
+	},
+	{
+		"id": 6,
+		"title": "Skönhet",
+		"text": "Kommer snart...",
+		"image": "page-beauty.jpg",
+		"size": "small",
+		"link": "/recommendations"
+	}
+]

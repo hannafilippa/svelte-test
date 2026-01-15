@@ -1,0 +1,43 @@
+[
+	{
+		"id": 1,
+		"title": "Inspiration",
+		"text": "Artiklar, guider och tips om hur du kan leva mer hållbart",
+		"image": "page-inspiration.jpg",
+		"size": "medium",
+		"link": "/inspiration"
+	},
+	{
+		"id": 2,
+		"title": "Dina vanor",
+		"text": "Spara idéer, skapa listor och följ dina hållbara mål direkt på hemsidan",
+		"image": "page-todos.jpg",
+		"size": "medium",
+		"link": "/todos"
+	},
+	{
+		"id": 3,
+		"title": "Se alla rekommendationer",
+		"text": "Våra rekommenderade produkter med fokus på kvalitet och miljöpåverkan",
+		"image": "page-shop.jpg",
+		"size": "medium",
+		"link": "/recommendations"
+	},
+	{
+		"id": 4,
+		"title": "Rekommenderade kaffeprodukter",
+		"text": "Utvalda produkter för en medveten morgonrutin med fokus på smak, kvalitet och hållbarhet",
+		"image": "page-coffee.jpg",
+		"size": "small",
+		"link": "/recommendations/coffee"
+	},
+
+	{
+		"id": 5,
+		"title": "Rekommenderade växter",
+		"text": "Skapa lugn, förbättra inomhusmiljön och gör ditt hem lite mer levande",
+		"image": "page-plant.jpg",
+		"size": "small",
+		"link": "/recommendations/plant"
+	}
+]
