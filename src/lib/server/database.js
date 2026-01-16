@@ -5,7 +5,6 @@ export function getTodos(userid) {
 		db.set(userid, [
 			{
 				id: crypto.randomUUID(),
-				description: '',
 				done: false
 			}
 		]);

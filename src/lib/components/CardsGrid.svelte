@@ -66,4 +66,10 @@
 			grid-template-columns: repeat(2, 6fr);
 		}
 	}
+
+	@media (max-width: 450px) {
+		.cards-grid {
+			grid-template-columns: repeat(1, 12fr);
+		}
+	}
 </style>
